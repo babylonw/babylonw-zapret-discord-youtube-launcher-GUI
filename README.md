@@ -7,7 +7,8 @@
 
 ## 📥 Скачать
 
-Перейдите в раздел **[Releases](https://github.com/ваш-логин/ваш-репозиторий/releases)** и скачайте последнюю версию `ZapretLauncher.exe`.
+Перейдите в раздел **[Releases](https://github.com/babylonw/
+babylonw-zapret-discord-youtube-launcher-GUI/releases)** и скачайте последнюю версию `ZapretLauncher.exe`.
 
 ## 🚀 Быстрый старт
 
