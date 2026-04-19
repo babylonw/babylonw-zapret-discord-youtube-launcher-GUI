@@ -49,3 +49,13 @@ pip install pyinstaller requests pillow
 
 # Соберите лаунчер
 pyinstaller --onefile --windowed --add-data "zapret_files;zapret_files" launcher.py
+
+## 🤝 Благодарности
+
+- Оригинальный zapret: [bol-van/zapret](https://github.com/bol-van/zapret)
+- Сборка стратегий: [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
+## 📱 Связь
+
+- Telegram канал: [@ваш_канал](https://t.me/ваш_канал)
+- GitHub Issues: [сообщить о проблеме](https://github.com/ваш-логин/ваш-репозиторий/issues)
