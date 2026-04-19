@@ -62,7 +62,8 @@ pyinstaller --onefile --windowed --add-data "zapret_files;zapret_files" launcher
 ## 📱 Связь
 
 - Telegram канал: скоро...
-- GitHub Issues: [сообщить о проблеме](https://github.com/ваш-логин/ваш-репозиторий/issues)
+- GitHub Issues: [сообщить о проблеме](https://github.com/babylonw/babylonw-zapret-discord-youtube-launcher-GUI
+/issues)
 
 
 
