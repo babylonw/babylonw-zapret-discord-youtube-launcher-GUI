@@ -50,6 +50,10 @@ pip install pyinstaller requests pillow
 # Соберите лаунчер
 pyinstaller --onefile --windowed --add-data "zapret_files;zapret_files" launcher.py
 
+
+- Telegram канал: [@ваш_канал](https://t.me/ваш_канал)
+- GitHub Issues: [сообщить о проблеме](https://github.com/ваш-логин/ваш-репозиторий/issues)
+```
 ## 🤝 Благодарности
 
 - Оригинальный zapret: [bol-van/zapret](https://github.com/bol-van/zapret)
@@ -57,5 +61,9 @@ pyinstaller --onefile --windowed --add-data "zapret_files;zapret_files" launcher
 
 ## 📱 Связь
 
-- Telegram канал: [@ваш_канал](https://t.me/ваш_канал)
+- Telegram канал: скоро...
 - GitHub Issues: [сообщить о проблеме](https://github.com/ваш-логин/ваш-репозиторий/issues)
+
+
+
+
